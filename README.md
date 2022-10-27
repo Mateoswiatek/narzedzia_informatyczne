@@ -11,3 +11,5 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 <sub>przynajmniej w założeniach</sub>
 (co)<sup>2</sup>
 
+
+> Wszystko bedzie jak talala
