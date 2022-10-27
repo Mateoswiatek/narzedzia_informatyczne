@@ -9,4 +9,5 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 
 ***Najważniejsze że działa***
 <sub>przynajmniej w założeniach</sub>
-<sup>takie są plany</sup>
+(co)<sup>2</sup>
+
