@@ -51,6 +51,7 @@ Lista zadań:
 
 ![Kotek](animals/cat.jpg)
 ![Pies](animals/dog.jpg)
+![Skakun](animals/skakun.jpg)
 
 
 Preview -> podgląd jak będzie wyglądał sformatowany dokument
