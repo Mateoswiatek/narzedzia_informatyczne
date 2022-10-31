@@ -1,6 +1,4 @@
 # narzedzia_informatyczne
-## moje_FriendBy
-### dokłady opis jest w trakcie.
 
 (zwykły tekst)
 
@@ -12,11 +10,45 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 [Licencja](/LICENSE)
 
 ![Memik na poprawę dnia](/python.jpg)
+
+Ranking języków
+1. Python
+2. Python
+3. Python
+4. Inne
+
+Co trzeba zrobić:
+- pomysł
+- baza danych
+- wiele innych
+
+Budowa projektu:
+- Sport
+  - Kosz
+  - Siata
+  - Gała
+ 
+# Największy
+## Mniejszy 
+### Najmniejszy nagłówek
+
+kod
+
+Lista zadań:
+- [x] wstać z łóżka 
+- [ ] napisać program
+- [ ] pojechać na wakacje[^1] :+1: 
+- [ ] 
+<!-- Komentarze których nie widać później -->
+
 ~~Najtrudniejszy~~ Najłatwiejszy **PROJEKT** (*o dziwo wspólny*)
 
 ***Najważniejsze że działa***
 <sub>przynajmniej w założeniach</sub>
 (co)<sup>2</sup>
 
+Preview -> podgląd jak będzie wyglądał sformatowany dokument
 
 > Wszystko bedzie jak talala
+
+[^1]: Gdzieś daleko, najlepiej do Kapitolu
