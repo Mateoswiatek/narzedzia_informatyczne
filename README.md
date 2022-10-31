@@ -11,6 +11,7 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 
 [Licencja](/LICENSE)
 
+![Memik na poprawę dnia](/python.jpg)
 ~~Najtrudniejszy~~ Najłatwiejszy **PROJEKT** (*o dziwo wspólny*)
 
 ***Najważniejsze że działa***
