@@ -9,7 +9,7 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 
 [Motto muzyczne](https://www.youtube.com/watch?v=2onLeKNEfoA) 
 
-[Licencja](/LICENCE)
+[Licencja](/LICENSE)
 
 ~~Najtrudniejszy~~ Najłatwiejszy **PROJEKT** (*o dziwo wspólny*)
 
