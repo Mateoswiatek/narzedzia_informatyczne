@@ -52,6 +52,8 @@ Lista zadań:
 
 Preview -> podgląd jak będzie wyglądał sformatowany dokument
 
+Description jest widoczne w historii zmian, przy konkretnej zmianie 
+
 <!-- Komentarze których nie widać później -->
 
 
