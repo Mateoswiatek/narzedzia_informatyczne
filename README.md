@@ -57,6 +57,9 @@ Preview -> podgląd jak będzie wyglądał sformatowany dokument
 
 Description jest widoczne w historii zmian, przy konkretnej zmianie 
 
+Zielone -> dodane
+Czerowne -> usunięte
+niekolorowe -> zostały bez zmian
 <!-- Komentarze których nie widać później -->
 
 
