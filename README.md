@@ -43,6 +43,13 @@ Lista zadań:
 - [ ] napisać program
 - [ ] pojechać na wakacje[^1] :+1: 
 
+| Imię  | Nazwisko |
+| ------------ | ------------ |
+| Mateusz | Świątek |
+| Kuba | Nowak |
+| Adam | Kozłowski |
+
+
 Preview -> podgląd jak będzie wyglądał sformatowany dokument
 
 <!-- Komentarze których nie widać później -->
