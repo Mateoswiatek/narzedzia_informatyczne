@@ -51,6 +51,8 @@ Lista zadań:
 
 ![Kotek](animals/cat.jpg)
 ![Pies](animals/dog.jpg)
+
+A tutaj skakunik piękny, mały skoczek
 ![Skakun](animals/skakun.jpg)
 
 
