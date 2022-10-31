@@ -32,14 +32,21 @@ Budowa projektu:
 ## Mniejszy 
 ### Najmniejszy nagłówek
 
-kod
+```python
+# programik do przywitania się
+name = input("Podaj swoje imię: ")
+print(f"Siemaneczko {name}")
+```
 
 Lista zadań:
 - [x] wstać z łóżka 
 - [ ] napisać program
 - [ ] pojechać na wakacje[^1] :+1: 
-- [ ] 
+
+Preview -> podgląd jak będzie wyglądał sformatowany dokument
+
 <!-- Komentarze których nie widać później -->
+
 
 ~~Najtrudniejszy~~ Najłatwiejszy **PROJEKT** (*o dziwo wspólny*)
 
@@ -47,7 +54,7 @@ Lista zadań:
 <sub>przynajmniej w założeniach</sub>
 (co)<sup>2</sup>
 
-Preview -> podgląd jak będzie wyglądał sformatowany dokument
+
 
 > Wszystko bedzie jak talala
 
