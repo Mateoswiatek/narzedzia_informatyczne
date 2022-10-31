@@ -49,6 +49,9 @@ Lista zadań:
 | Kuba | Nowak |
 | Adam | Kozłowski |
 
+![Kotek](animals/cat.jpg)
+![Pies](animals/dog.jpg)
+
 
 Preview -> podgląd jak będzie wyglądał sformatowany dokument
 
