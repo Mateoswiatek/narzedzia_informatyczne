@@ -77,3 +77,7 @@ niekolorowe -> zostały bez zmian
 > Wszystko bedzie jak talala
 
 [^1]: Gdzieś daleko, najlepiej do Kapitolu
+
+Dodatkowe:
+![Pies](animals/dog2.jpg)
+![Kot](animals/cat2.jpg)
